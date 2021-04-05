@@ -1,0 +1,9 @@
+C:\Users\leosa\OneDrive\Área de Trabalho\crudApp\Entrevista\Entrvista.Dominio\obj\Debug\Entrvista.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leosa\OneDrive\Área de Trabalho\crudApp\Entrevista\Entrvista.Dominio\bin\Debug\Entrvista.Dominio.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\crudApp\Entrevista\Entrvista.Dominio\bin\Debug\Entrvista.Dominio.pdb
+C:\Users\leosa\OneDrive\Área de Trabalho\crudApp\Entrevista\Entrvista.Dominio\bin\Debug\Entrevista.Compartilhado.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\crudApp\Entrevista\Entrvista.Dominio\bin\Debug\Entrevista.Compartilhado.pdb
+C:\Users\leosa\OneDrive\Área de Trabalho\crudApp\Entrevista\Entrvista.Dominio\obj\Debug\Entrvista.Dominio.csprojAssemblyReference.cache
+C:\Users\leosa\OneDrive\Área de Trabalho\crudApp\Entrevista\Entrvista.Dominio\obj\Debug\Entrvista.Dominio.csproj.CopyComplete
+C:\Users\leosa\OneDrive\Área de Trabalho\crudApp\Entrevista\Entrvista.Dominio\obj\Debug\Entrvista.Dominio.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\crudApp\Entrevista\Entrvista.Dominio\obj\Debug\Entrvista.Dominio.pdb

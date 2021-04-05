@@ -1,0 +1,5 @@
+C:\Users\leosa\OneDrive\Área de Trabalho\crudApp\Entrevista\Entrevista.Compartilhado\bin\Debug\Entrevista.Compartilhado.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\crudApp\Entrevista\Entrevista.Compartilhado\bin\Debug\Entrevista.Compartilhado.pdb
+C:\Users\leosa\OneDrive\Área de Trabalho\crudApp\Entrevista\Entrevista.Compartilhado\obj\Debug\Entrevista.Compartilhado.csproj.CoreCompileInputs.cache
+C:\Users\leosa\OneDrive\Área de Trabalho\crudApp\Entrevista\Entrevista.Compartilhado\obj\Debug\Entrevista.Compartilhado.dll
+C:\Users\leosa\OneDrive\Área de Trabalho\crudApp\Entrevista\Entrevista.Compartilhado\obj\Debug\Entrevista.Compartilhado.pdb
